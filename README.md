@@ -77,3 +77,5 @@ ModTracer aims to find LKM rootkits that are hidden inside the system and make t
 # Contribution
 
 If you want to contribute to this repository with more tricks to detect or remove Linux Kernel Rootkit, please contact me.
+
+NOTE: More things coming soon
