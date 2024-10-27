@@ -22,6 +22,7 @@ In this cheat sheet I include several techniques to help with this
 - `/sys/debug/kernel/tracing/enabled_functions` # alternative list of tracked functions, in debug mode
 - `/sys/kernel/debug/tracing/trace` # Where tracking events are recorded in real time
 - `/sys/kernel/tracing/trace` # Like the previous one, it allows you to view the trace, does not require debug mode
+- `/sys/kernel/debug/dynamic_debug/control` # enable/disable real-time kernel debug messages for specific modules
 - `/sys/fs/bpf/*` # Directory for BPF (eBPF) maps and programs, used for tracking and security
 - `/sys/module/*` # Contains information about loaded kernel modules, such as parameters and states
 
