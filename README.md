@@ -1,7 +1,7 @@
 #  Cheat sheet for detect and remove linux kernel rootkits
 
 >  Created by @MatheuzSecurity
->  More rootkit / malware content in rootkit researchers group
+- More rootkit / malware content in rootkit researchers group
 >  Join: https://discord.gg/66N5ZQppU7
 
 Nowadays, rootkits are becoming increasingly sophisticated and stealthy, so detecting them and especially removing them is an extremely difficult task.
