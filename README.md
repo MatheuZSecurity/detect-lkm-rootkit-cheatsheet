@@ -4,7 +4,7 @@
 - More rootkit / malware content in rootkit researchers group
 >  Join: https://discord.gg/66N5ZQppU7
 
-<p align="center"><img src="x.png"></p>
+<p align="center"><img src="xx.png"></p>
 
 Nowadays, rootkits are becoming increasingly sophisticated and stealthy, so detecting them and especially removing them is an extremely difficult task.
 
