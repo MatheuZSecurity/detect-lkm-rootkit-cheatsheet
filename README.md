@@ -1,6 +1,7 @@
 #  Cheat sheet for detect and remove linux kernel rootkits
 
 >  Created by @MatheuzSecurity
+- https://br.linkedin.com/in/matheus-alves-212775208
 - More rootkit / malware content in rootkit researchers group
 >  Join: https://discord.gg/66N5ZQppU7
 
