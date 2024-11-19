@@ -41,7 +41,8 @@ In this cheat sheet I include several techniques to help with this
 - `/var/log/dmesg*` # Kernel messages logs, captured by the dmesg command
 - `/var/log/kern.log` # Stores logs of kernel events and messages, useful for monitoring and debugging
 - `/dev/kmsg` # Interface for sending and reading kernel messages in real time
-- `dmesg` # Command to view kernel logs messages and boot 
+- `dmesg` # Command to view kernel logs messages and boot
+- `journalctl -k` # Shows kernel logs captured by systemd-journald
 
 ### Tools open source
 
