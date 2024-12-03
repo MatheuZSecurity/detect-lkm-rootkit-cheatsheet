@@ -27,6 +27,7 @@ In this cheat sheet I include several techniques to help with this
 - `/sys/kernel/tracing/touched_functions` # shows all functions that was every traced by ftrace or a direct trampoline (only for kernel 6.4+)
 - `/sys/fs/bpf/*` # Directory for BPF (eBPF) maps and programs, used for tracking and security
 - `/sys/module/*` # Contains information about loaded kernel modules, such as parameters and states
+- `/sys/kernel/tracing/kprobe_events` # Contains kprobes events
 
 
 ### Finding rootkits in procfs
